@@ -1,2 +1,4 @@
 # serigne
 lunix
+whoami
+pwd
